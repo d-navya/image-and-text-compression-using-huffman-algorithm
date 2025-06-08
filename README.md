@@ -17,7 +17,7 @@ TinyHuff is a web application for compressing and decompressing text and image f
 
 ## Installation
 ```bash
-git clone https://github.com/d-navya/tinyhuff.git
+git clone https://github.com/d-navya/image-and-text-compression-using-huffman-algorithm.git
 cd tinyhuff
 pip install -r requirements.txt
 python app.py
