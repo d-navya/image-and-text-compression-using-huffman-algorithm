@@ -13,7 +13,7 @@ TinyHuff is a web application for compressing and decompressing text and image f
 - Huffman Coding
 - Chroma Subsampling
 - HTML, CSS, JavaScript (Frontend)
-- Flask/Django (Backend)
+- Spring
 
 ## Installation
 ```bash
